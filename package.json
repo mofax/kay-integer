@@ -1,0 +1,13 @@
+{
+  "name": "kay-integer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mofax/kay-integer.git",
+  "author": "Alloys Mila <mofax@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
